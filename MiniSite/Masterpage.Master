@@ -1,0 +1,142 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Masterpage.master.cs" Inherits="MiniSite.Masterpage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Cloud9</title>
+    <link rel="icon" href="Images/siteIcon.png" />
+    <link rel="stylesheet" type="text/css" href="css.css" />
+    <script src="jquery.js"></script>
+    <script src="JavaScript.js"></script>
+    <script>
+        $(rateUsFunc);
+        $(DismissRating);
+    </script>
+</head>
+<body style="margin: 0">
+    <form id="form1" runat="server">
+        <div>
+            <table style="width: 100%">
+                <tr>
+                    <td>
+                        <table style="width: 100%" class="wallpaper">
+                            <tr>
+                                <td>
+                                    <img src="images/cloud9logo.png" id="headimage" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table style="width: 100%;"> 
+                                        <tr>
+                                            <td>
+                                                <table style="width: 45%">
+                                                    <tr>
+                                                        <td>
+                                                            <a href="home.aspx"><img src="images/logo.png" id="minilogo" /></a>
+                                                        </td>
+                                                        <td>
+                                                            <a href="home.aspx"><h2 class="toolbar">home</h2></a>
+                                                        </td>
+                                                        <td>
+                                                            <a href="About.aspx"><h2 class="toolbar">about</h2></a>
+                                                        </td>
+                                                        <td>
+                                                            <a href="Gallery.aspx"><h2 class="toolbar">gallery</h2></a>
+                                                        </td>
+                                                        <td>
+                                                        <a href="Members.aspx"><h2 class="toolbar">members</h2></a>
+                                                    </td>
+                                                </tr>
+                                                </table>
+                                            </td>
+                                            <td>
+                                                <table style="width: 50%; margin-left: 50%">
+                                                    <tr>
+                                                        <td>
+                                                            <a href="<%=firstLink %>"><h2 class="registerlogin toolbar" style="text-align: right"><%= first %></h2></a>
+                                                        </td>
+                                                        <td>
+                                                            <h2 style="text-align: center">|</h2>
+                                                        </td>
+                                                        <td>
+                                                            <a href="<%=secondLink %>"><h2 class="registerlogin toolbar" style="text-align: left"><%=second %></h2></a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style="height: 15px;"></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table id="rateUsBox">
+                            <tr>
+                                <td>
+                                    <table style="width: 100%">
+                                        <tr>
+                                            <td>
+                                                <h1 style="color: white; text-align: center">Rate Us!</h1>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <h4 style="color: white; text-align: center; margin: 0">
+                                                    Average Rating: <%=AvgRating %>
+                                                </h4>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table>
+                                        <tr>
+                                            <td>
+                                                <img src="Images/LikeImg.png" style="height: 40px; width: 40px" />
+                                            </td>
+                                            <td>
+                                                <table>
+                                                    <tr>
+                                                        <td>
+                                                            <div class="star-container">
+                                                                
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+            </table>
+            <a href="home.aspx"><img src="images/logo.png" id="bottomlogo"/></a>
+            <h2 id="copyright">©2018 gal neeman, all rights reserved.</h2>
+        </div>
+    </form>
+</body>
+</html>

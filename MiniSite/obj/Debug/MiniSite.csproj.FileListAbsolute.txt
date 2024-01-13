@@ -1,0 +1,518 @@
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\MiniSite.dll.config
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\MiniSite.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\MiniSite.pdb
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\csc.exe
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\csc.exe.config
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\csc.rsp
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\csi.exe
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\csi.exe.config
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\csi.rsp
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.AppContext.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Console.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Security.Claims.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\vbc.exe
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\vbc.exe.config
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\vbc.rsp
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\obj\Debug\MiniSite.csprojAssemblyReference.cache
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\obj\Debug\MiniSite.csproj.CoreCompileInputs.cache
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\obj\Debug\MiniSite.csproj.CopyComplete
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\obj\Debug\MiniSite.dll
+C:\Users\zorit\Desktop\מדעי המחשב\שיעורי בית\MiniSite\MiniSite\obj\Debug\MiniSite.pdb
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\MiniSite.dll.config
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\MiniSite.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\MiniSite.pdb
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\csc.exe
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\csc.exe.config
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\csc.rsp
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\csi.exe
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\csi.exe.config
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\csi.rsp
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.AppContext.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Console.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Claims.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\vbc.exe
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\vbc.exe.config
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\vbc.rsp
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zorit\Desktop\MiniSite\MiniSite\obj\Debug\MiniSite.csprojAssemblyReference.cache
+C:\Users\zorit\Desktop\MiniSite\MiniSite\obj\Debug\MiniSite.csproj.CoreCompileInputs.cache
+C:\Users\zorit\Desktop\MiniSite\MiniSite\obj\Debug\MiniSite.csproj.CopyComplete
+C:\Users\zorit\Desktop\MiniSite\MiniSite\obj\Debug\MiniSite.dll
+C:\Users\zorit\Desktop\MiniSite\MiniSite\obj\Debug\MiniSite.pdb
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\MiniSite.dll.config
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\MiniSite.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\MiniSite.pdb
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\csc(1).exe
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\csc(1).rsp
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\csc.exe
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\csc.exe(1).config
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\csi(1).exe
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\csi(1).rsp
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\csi.exe
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\csi.exe(1).config
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.CSharp.Core.targets(1)
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.Managed.Core.targets(1)
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\Microsoft.VisualBasic.Core.targets(1)
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.AppContext(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Collections.Immutable(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Console(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Diagnostics.FileVersionInfo(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Diagnostics.StackTrace(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.IO.Compression(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.IO.FileSystem(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.IO.FileSystem.Primitives(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.IO.Pipes(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.IO.Pipes.AccessControl(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Reflection.Metadata(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.AccessControl(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Claims(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Cryptography.Algorithms(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Cryptography.Encoding(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Cryptography.Primitives(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Cryptography.X509Certificates(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Principal.Windows(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Text.Encoding.CodePages(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.ValueTuple(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Xml.ReaderWriter(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Xml.XmlDocument(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Xml.XPath(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Xml.XPath.XDocument(1).dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\vbc(1).exe
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\vbc(1).rsp
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\vbc.exe(1).config
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\VBCSCompiler(1).exe
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\VBCSCompiler.exe(1).config
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\MiniSite\MiniSite\obj\Debug\MiniSite.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\MiniSite\MiniSite\obj\Debug\MiniSite.dll
+C:\Users\User\Desktop\MiniSite\MiniSite\obj\Debug\MiniSite.pdb
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\MiniSite.dll.config
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\MiniSite.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\MiniSite.pdb
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\csc(1).exe
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\csc(1).rsp
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\csc.exe
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\csc.exe(1).config
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\csc.exe.config
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\csc.rsp
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\csi(1).exe
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\csi(1).rsp
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\csi.exe
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\csi.exe(1).config
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\csi.exe.config
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\csi.rsp
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.CodeAnalysis(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.CSharp.Core.targets(1)
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.Managed.Core.targets(1)
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\Microsoft.VisualBasic.Core.targets(1)
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.AppContext(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.AppContext.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Collections.Immutable(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Console(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Console.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Diagnostics.FileVersionInfo(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Diagnostics.StackTrace(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.IO.Compression(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.IO.FileSystem(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.IO.FileSystem.Primitives(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.IO.Pipes(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.IO.Pipes.AccessControl(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Reflection.Metadata(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Security.AccessControl(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Security.Claims(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Security.Claims.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Security.Cryptography.Algorithms(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Security.Cryptography.Encoding(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Security.Cryptography.Primitives(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Security.Cryptography.X509Certificates(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Security.Principal.Windows(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Text.Encoding.CodePages(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.ValueTuple(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Xml.ReaderWriter(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Xml.XmlDocument(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Xml.XPath(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Xml.XPath.XDocument(1).dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\vbc(1).exe
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\vbc(1).rsp
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\vbc.exe
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\vbc.exe(1).config
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\vbc.exe.config
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\vbc.rsp
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\VBCSCompiler(1).exe
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\VBCSCompiler.exe(1).config
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\obj\Debug\MiniSite.csprojAssemblyReference.cache
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\obj\Debug\MiniSite.csproj.CoreCompileInputs.cache
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\obj\Debug\MiniSite.csproj.CopyComplete
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\obj\Debug\MiniSite.dll
+C:\Users\zorit\Desktop\MiniSiteNew\MiniSite\obj\Debug\MiniSite.pdb
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\MiniSite.dll.config
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\MiniSite.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\MiniSite.pdb
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\csc(1).exe
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\csc(1).rsp
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\csc.exe
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\csc.exe(1).config
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\csc.exe.config
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\csc.rsp
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\csi(1).exe
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\csi(1).rsp
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\csi.exe
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\csi.exe(1).config
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\csi.exe.config
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\csi.rsp
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.CSharp.Core.targets(1)
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.Managed.Core.targets(1)
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\Microsoft.VisualBasic.Core.targets(1)
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.AppContext(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.AppContext.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Collections.Immutable(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Console(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Console.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Diagnostics.FileVersionInfo(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Diagnostics.StackTrace(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.IO.Compression(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.IO.FileSystem(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.IO.FileSystem.Primitives(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.IO.Pipes(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.IO.Pipes.AccessControl(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Reflection.Metadata(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Security.AccessControl(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Security.Claims(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Security.Claims.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Security.Cryptography.Algorithms(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Security.Cryptography.Encoding(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Security.Cryptography.Primitives(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Security.Cryptography.X509Certificates(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Security.Principal.Windows(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Text.Encoding.CodePages(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.ValueTuple(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Xml.ReaderWriter(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Xml.XmlDocument(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Xml.XPath(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Xml.XPath.XDocument(1).dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\vbc(1).exe
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\vbc(1).rsp
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\vbc.exe
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\vbc.exe(1).config
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\vbc.exe.config
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\vbc.rsp
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\VBCSCompiler(1).exe
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\VBCSCompiler.exe(1).config
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zorit\Desktop\Cloud9\MiniSite\obj\Debug\MiniSite.csprojAssemblyReference.cache
+C:\Users\zorit\Desktop\Cloud9\MiniSite\obj\Debug\MiniSite.csproj.CoreCompileInputs.cache
+C:\Users\zorit\Desktop\Cloud9\MiniSite\obj\Debug\MiniSite.csproj.CopyComplete
+C:\Users\zorit\Desktop\Cloud9\MiniSite\obj\Debug\MiniSite.dll
+C:\Users\zorit\Desktop\Cloud9\MiniSite\obj\Debug\MiniSite.pdb
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\MiniSite.dll.config
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\MiniSite.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\MiniSite.pdb
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\csc(1).exe
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\csc(1).rsp
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\csc.exe
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\csc.exe(1).config
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\csc.exe.config
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\csc.rsp
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\csi(1).exe
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\csi(1).rsp
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\csi.exe
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\csi.exe(1).config
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\csi.exe.config
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\csi.rsp
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.CSharp.Core.targets(1)
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.Managed.Core.targets(1)
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\Microsoft.VisualBasic.Core.targets(1)
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.AppContext(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.AppContext.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Collections.Immutable(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Console(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Console.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Diagnostics.FileVersionInfo(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Diagnostics.StackTrace(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.IO.Compression(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.IO.FileSystem(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.IO.FileSystem.Primitives(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.IO.Pipes(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.IO.Pipes.AccessControl(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Reflection.Metadata(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Security.AccessControl(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Security.Claims(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Security.Claims.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Security.Cryptography.Algorithms(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Security.Cryptography.Encoding(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Security.Cryptography.Primitives(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Security.Cryptography.X509Certificates(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Security.Principal.Windows(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Text.Encoding.CodePages(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.ValueTuple(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Xml.ReaderWriter(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Xml.XmlDocument(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Xml.XPath(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Xml.XPath.XDocument(1).dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\vbc(1).exe
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\vbc(1).rsp
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\vbc.exe
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\vbc.exe(1).config
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\vbc.exe.config
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\vbc.rsp
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\VBCSCompiler(1).exe
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\VBCSCompiler.exe(1).config
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\obj\Debug\MiniSite.csproj.AssemblyReference.cache
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\obj\Debug\MiniSite.csproj.CoreCompileInputs.cache
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\obj\Debug\MiniSite.csproj.CopyComplete
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\obj\Debug\MiniSite.dll
+C:\Users\dokka\OneDrive\Desktop\code\Cloud9\MiniSite\obj\Debug\MiniSite.pdb
